@@ -1,0 +1,17 @@
+body {
+  height: 2000px;
+}
+.body_bg {
+  background-color: #222D32;
+}
+.mt_150 {
+  margin-top: 150px;
+}
+.panel .panel-heading {
+  text-align: center;
+}
+.panel .panel-heading h3 {
+  font-size: 20px;
+  height: 40px;
+  line-height: 40px;
+}
